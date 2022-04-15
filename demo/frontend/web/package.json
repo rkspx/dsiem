@@ -7,8 +7,8 @@
     "@elastic/eui": "^14.9.0",
     "mermaid": "^8.4.2",
     "moment": "^2.24.0",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-json-view": "^1.19.1",
     "react-router-dom": "^5.1.2"
   },
