@@ -9,7 +9,7 @@
     "moment": "^2.24.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-json-view": "^1.19.1",
+    "react-json-view": "^1.21.3",
     "react-router-dom": "^5.1.2"
   },
   "scripts": {
