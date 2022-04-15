@@ -33,7 +33,7 @@
     "@angular/platform-browser": "^8.0.0",
     "@angular/platform-browser-dynamic": "^8.0.0",
     "@angular/router": "^8.0.0",
-    "@coreui/angular": "^2.7.0",
+    "@coreui/angular": "^2.13.0",
     "@coreui/coreui": "^2.1.16",
     "@coreui/icons": "0.3.0",
     "bootstrap": "^4.1.3",
