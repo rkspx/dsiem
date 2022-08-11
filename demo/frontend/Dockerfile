@@ -7,7 +7,7 @@ WORKDIR /web
 RUN npm install
 RUN npm run build
 
-FROM nginx:alpine
+FROM nginx:1.23.1-alpine
 
 RUN apk update && apk upgrade && \
   apk add --update ca-certificates && \
